@@ -2,3 +2,4 @@
 *.bak
 /ETH.uvgui.Иванов
 /ETH.uvopt
+*.dep
